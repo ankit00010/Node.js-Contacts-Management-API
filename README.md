@@ -21,13 +21,13 @@ A robust Node.js and Express.js API for managing contacts, complete with user au
    ```bash
    git clone https://github.com/your-username/node-contacts-api.git
 
-1.Install Dependencies:
+2.Install Dependencies:
 cd directory_name
 npm install
 
-2.Set Environment Variables:
+3.Set Environment Variables:
 
-3.Create a .env file based on the provided .env.example template.
+4.Create a .env file based on the provided .env.example template.
 
-4.Run the Application:
+5.Run the Application:
 npm run dev
