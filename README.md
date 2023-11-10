@@ -27,7 +27,7 @@ npm install
 
 3.Set Environment Variables:
 
-4.Create a .env file based on the provided .env.example template.
+Create a .env file based on the provided .env.example template.
 
-5.Run the Application:
+4.Run the Application:
 npm run dev
